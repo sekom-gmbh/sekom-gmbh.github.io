@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Publications
+title: Metals
 nav_order: 1
 parent: Products
 ---
 
-# Publications
+# Metals
 
 <small> Current and prior *Lab Members* are displayed in italics. The superscript indicates their academic status at the time of the project. The **Principal Investigator** is highlighted in bold. </small>
 
