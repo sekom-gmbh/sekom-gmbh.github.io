@@ -7,7 +7,6 @@ parent: Organization
 
 # Lab's Agenda
 
-
 ### January 14, Sat: Quarterly Meeting
 + Plan TDB
 
@@ -17,3 +16,4 @@ parent: Organization
 + Aurora - TDB
 
 ### March 4 & 5, Fri/Sat: SRS Days
+

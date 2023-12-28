@@ -1,4 +1,4 @@
-title: Sekom Handels GmbH
+title: Sekom
 
 ### Theme
 # theme: jekyll-theme-cayman
@@ -6,5 +6,11 @@ remote_theme: pmarsceill/just-the-docs
 
 ### Color scheme supports "light" (default) and "dark"
 color_scheme: light
+
+date_format: "%B %d, %Y"
+
+aux_links:
+  "Sekom on GitHub":
+    - "//github.com/sekom-gmbh"
 
 

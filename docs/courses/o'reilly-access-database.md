@@ -1,3 +1,9 @@
+---
+layout: default
+title: O'Reilly Learning
+nav_order: 9
+parent: Lab Documentation
+---
 # O'Reilly Learning
 Through San Diego State University, all students have access to [O'Reilly](https://learning.oreilly.com/home/), a database full of free books, audio books, case studies, and other resources.
 
@@ -18,4 +24,3 @@ You can access this database directly with the following steps:
 6. Search for The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, and add it to your Lab Reference Materials playlist for easy access
 
 Now you have access to 35K+ books, 30K+ hours of video, curated learning paths, case studies, interactive tutorials, audio books, and O'Reilly conference videos.
-
