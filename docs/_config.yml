@@ -28,7 +28,7 @@ url: "https://sekom.com" # the base hostname & protocol for your site, e.g. http
 repository: sekom-gmbh/sekom-gmbh.github.io
 
 # Build settings
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 permalink: pretty
 
 # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
