@@ -5,8 +5,9 @@ permalink: /about/
 ---
 
 
-| General Manager:|Dr. András Szép|
+
 | ---: | :--- |
+|General Manager:|Dr. András Szép|
 |Mobiles phones:|+44-7824-359474 (Viber, WhatsApp, WeChat); +43-664-1003984|
 |Skype:|andras_szep|
 |Viber/Whatsapp/Telegram/Signal/WeChat:|+44-7824-359474|
