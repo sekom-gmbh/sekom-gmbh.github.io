@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-
+| SEKOM | Handelsges.m.b.H.&Co.KG. |
 | ---: | :--- |
 |General Manager:|Dr. András Szép|
 |Mobiles phones:|+44-7824-359474 (Viber, WhatsApp, WeChat); +43-664-1003984|
