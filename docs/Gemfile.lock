@@ -286,7 +286,6 @@ DEPENDENCIES
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
   jekyll (~> 3.9.3)
-  jekyll-feed
   jekyll-github-metadata
   jekyll-include-cache
   jekyll-seo-tag
