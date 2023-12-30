@@ -1,3 +1,9 @@
 @import "./color_schemes/light";
+body {
+    background-image: url(background.gif);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+/* $text-color: darkblue; */
 
 $link-color: rgba(0, 0, 204, 1);
