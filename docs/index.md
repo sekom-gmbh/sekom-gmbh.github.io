@@ -5,6 +5,16 @@ nav_order: 1
 has_children: false
 ---
 
+<style>
+    body, h1, h2, h3, h4, h5, h6 {
+        color: darkblue;
+    }
+    h1 {
+        font-weight: bold;
+    }
+</style>
+
+
 # SEKOM is an international trade and project development company.
 
 SEKOM is a private company, registered in Austria. It was founded in 1990 as an international trade and project development company. Main activity of company is trade with hard and refractory metals, oxides, concentrates and scrap, in particular Tungsten, Molybdenum, Rhenium, Tantalum, Titanium, as well precious and platinum group metals.

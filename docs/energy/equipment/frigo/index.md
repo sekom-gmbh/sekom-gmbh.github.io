@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Generators
-nav_order: 1
+title: Refrigerators
+nav_order: 2
 parent: Equipment
 grand_parent: Energy
 
 ---
 
-#  Generators 
+# Nuclear

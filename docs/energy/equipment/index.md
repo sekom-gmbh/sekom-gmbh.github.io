@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Equipment
-nav_order: 1
+nav_order: 2
 parent: Energy
 has_children: true
 
@@ -9,7 +9,7 @@ has_children: true
 
 #  Equipment 
 
-## The three foundations of :
+## The three  of :
 1. Constant restructuring (refactoring) of scienctific knowldege.
     + Restraining the spontaneous increase of scientific noise (entropy).
 2. Sharing state-of-the-art science transparently and unpretentiously.
@@ -17,6 +17,6 @@ has_children: true
 3. Governing scientific knowledge of the people, for the people, and by the people.
     + Decoupling knowledge from journal publications (validation, advertisement, and promotion).
 
-## The lab's Athena is the synthesis of the current lab's knowledge
+## The lab's  is the synthesis of the current lab's knowledge
 + Narrative and visual synthesis of the scientific knowledge accumulated by the lab over the years.
-+ Connection with other Athenas and repositories.
++ Connection with other   repositories.
