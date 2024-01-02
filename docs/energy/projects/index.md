@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Archive
-nav_order: 3
-parent: Knowledge
+title: Projects
+nav_order: 2
+parent: Energy
+has_children: true
+
 ---
 
-# Projects Archived
+# Projects 
 
 List of projects that have been archived, including theses, articles, and software.

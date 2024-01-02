@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Athena
+title: Equipment
 nav_order: 1
-parent: Knowledge
+parent: Energy
+has_children: true
+
 ---
 
-# The Athena initiative
+#  Equipment 
 
-## The three foundations of Athena:
+## The three foundations of :
 1. Constant restructuring (refactoring) of scienctific knowldege.
     + Restraining the spontaneous increase of scientific noise (entropy).
 2. Sharing state-of-the-art science transparently and unpretentiously.
