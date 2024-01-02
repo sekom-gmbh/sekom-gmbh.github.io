@@ -3,7 +3,7 @@ layout: default
 title: About
 nav_order: 1
 parent: Organization
-has_children: true
+has_children: false
 ---
 
 ## SEKOM is an international trade and project development company.
