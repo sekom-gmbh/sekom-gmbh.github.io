@@ -3,6 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+<style>
+    body, h1, h2, h3, h4, h5, h6 {
+        color: darkblue;
+        background-color: transparent;
+    }
+    h1 {
+        font-weight: bold;
+    }
+    .transparent-table {
+        background-color: transparent;
+    }
+</style>
 
 
 | SEKOM | Handelsges.m.b.H. |
@@ -19,4 +31,5 @@ permalink: /about/
 |Bank:|RAIFFEISENLANDESBANK NIEDERÖSTERREICH-WIEN AG, Landstraßer Hauptstraße 2A-B, A-1030 Vienna, Austria|
 |BIC:|RLNWATWW|
 |IBAN:|AT76 3200 0000 1411 6289|
+
 
