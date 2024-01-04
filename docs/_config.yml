@@ -98,7 +98,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "SEKOM Handelsges.m.b.H.&Co.KG":
-    - "https://sekom-gmbh.github.io/"
+    - "https://gmbh.sekom.com/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
