@@ -7,4 +7,4 @@ parent: Products
 
 # Software
 
-[Luque lab GitHub organization](https://github.com/orgs/luquelab).
+[see repr at GitHub](https://github.com/AndrasSzep).

@@ -3,17 +3,28 @@ layout: default
 title: Agenda
 nav_order: 4
 parent: Organization
+hidden: true
 ---
 
-# Lab's Agenda
+# Today's Agenda
 
-### January 14, Sat: Quarterly Meeting
-+ Plan TDB
+### Spent catalyst
++ ANPZ
++ PNHZ
++ PKOP
 
-### January 21, Fri: SRS Registration Deadline
-+ Diana & Colin - talks
-+ Brandon & Caitlin - posters
-+ Aurora - TDB
+### Ag&PGM
++ TauKenAltyn
++ KyrgyzAltyn
 
-### March 4 & 5, Fri/Sat: SRS Days
+### APR
++ NavoiUran
+
+### Akkuyu
++ TES
++ Bergen
++ 
+
+### 
+
 

@@ -12,6 +12,6 @@ has_children: true
 ---
 
 
-** Molybdenum 
-** Tungsten 
-** Rhenium 
+> Molybdenum 
+> Tungsten 
+> Rhenium 
