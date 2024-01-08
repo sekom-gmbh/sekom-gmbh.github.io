@@ -5,11 +5,17 @@ nav_order: 2
 has_children: true
 ---
 
-## The lab's organizational principles are people, synthesis, and metacognition
+## SEKOM Handelsges.m.b.H. 
+is the top holding company of the international group f firms with headqter in Vienna, Austria.
 
-People come before science. The lab's mission is only meaningful if it empowers individuals and promotes an inclusive, equitable, and mindful organization.
+> The trading arm is SEKOM Handelsges.m.b.H.&Co.KG, with employees and associates worldwide, especially in Kazakhstan, Uzbekistan, Kyrgyzstan and Russia. 
 
-Only a constant synthesis effort can reduce the natural increase of complexity and noise when researching individual projects: the second law of thermodynamics is inevitable. Thus, the lab must revise and simplify the rules, practices, and acquired knowledge periodically.
+> In Budapest, Hungary, we have couple of partner companies which are involves in separate projects. 
 
-Human mind can learn new skills and habits in any discipline. The lab uses knowledge from cognitive science to help individuals understand the flaws of the human mind when doing science and how to integrate new habits towards improvement.
+> __AMTO Technology Kft__ in developing and supporting software solutions for equipment at power stations. 
 
+> __SME Holding Kft__ and Shet-Merke Energo Ltd are developing a small hydro-power station in Kazakhstan. 
+
+> __E-tickets Kft__ is a company providing support for online ticketing service. 
+
+> __Noble Metal Solutions Kft__ is involved in recycling of precious metals and cheemicals containing silver. 
