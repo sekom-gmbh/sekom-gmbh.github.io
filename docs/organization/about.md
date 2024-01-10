@@ -18,3 +18,4 @@ As specialist in complex projects and interdisciplinary technologies, we provide
 
 The managing director of SEKOM is Dr. Andras Szep, Ph.D. in technical cybernetics, graduated the Moscow Power Engineering Institute (Technical University) in 1989 as a systems engineer.
 
+<br><br><br><br><br><br>

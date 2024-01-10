@@ -2,13 +2,13 @@
  .side-bar, .footer, .header, .main {
     background-image: url(background.png);
     background-position: 0 0;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
 }
 
 $textColor: darkblue;
 
-body, h1, h2, h3, h4, h5, h6, .side-bar { 
+body, h1, h2, h3, h4, h5, h6, .side-bar , .header, .footer, .main { 
     color: $textColor; 
 }
 
