@@ -1,5 +1,5 @@
 @import "./color_schemes/light";
-body {
+ .side-bar, .footer, .header, .main {
     background-image: url(background.png);
     background-position: 0 0;
     background-repeat: no-repeat;
@@ -8,7 +8,9 @@ body {
 
 $textColor: darkblue;
 
-body, h1, h2, h3, h4, h5, h6 { color: $textColor; }
+body, h1, h2, h3, h4, h5, h6, .side-bar { 
+    color: $textColor; 
+}
 
 h1 {    font-weight: bold; }
 
