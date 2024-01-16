@@ -14,4 +14,4 @@ has_children: true
     }
 </style>
 
-The products of the lab are organized in publications, software, and courses & tutorials.
+We recycle and trade metals (Mo,W,Re,Ti,Ta, Au,Ag,Pt,Pd,Rh,Ir), develop software and technologies as well supply equipment for power stations.
