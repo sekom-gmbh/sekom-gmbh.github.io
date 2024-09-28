@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+<div class="metal">
+<div>
+Content goes here
+</div>
+</div>
