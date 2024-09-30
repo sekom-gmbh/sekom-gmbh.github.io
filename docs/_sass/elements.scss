@@ -1,6 +1,23 @@
 div.metal { 
-    height: 0;
-    width: 20%;
-    padding-bottom: 20%;
-    background-color: red;
+    width: 28%;
+    padding-top: 28%;
+    background-color: rgba(37, 31, 66, 0.1);
+    box-shadow: rgba(37, 31, 66, 0.8) 0px 0px 0px 2px inset;
+    color: rgb(37, 31, 66);
+    border-radius: 3%;
+    margin: 0.5em;
+    position: relative;
+    h1 {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        font-weight: bold;
+        transform: translate(-50%, -50%);
+    }
+    h3 {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
 }
