@@ -29,7 +29,7 @@ layout: home
             Co
         </h1>
         <h3>
-            Cobalt
+            Kobalt
         </h3>
     </div>
     <div class="metal" type="refractory">
@@ -47,7 +47,7 @@ layout: home
             Mo
         </h1>
         <h3>
-            Molybdan <!-- German spelling -->
+            Molybdän <!-- German spelling -->
         </h3>
     </div>
     <div class="metal" style="visibility:hidden">
@@ -67,7 +67,7 @@ layout: home
             Sb
         </h1>
         <h3>
-            Antimony
+            Antimon <!-- German spelling -->
         </h3>
     </div>
     <div class="metal" type="lanthanide">
@@ -99,7 +99,7 @@ layout: home
             W
         </h1>
         <h3>
-            Tungsten
+            Wolfram <!-- German spelling -->
         </h3>
     </div>
     <div class="metal" type="refractory">
