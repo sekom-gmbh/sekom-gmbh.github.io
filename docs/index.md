@@ -8,19 +8,21 @@ layout: home
 <div class="metals">
     <div class="metal" type="refractory">
         <h1>
-            Re
+            Ti
         </h1>
         <h3>
-            Rhenium
+            Titan <!-- German spelling -->
         </h3>
     </div>
-    <div class="metal" type="metalloid">
+    <div class="metal" type="refractory">
         <h1>
-            Sb
+            V
         </h1>
         <h3>
-            Antimony
+            Vanadium
         </h3>
+    </div>
+    <div class="metal" style="visibility:hidden">
     </div>
     <div class="metal" type="transition">
         <h1>
@@ -38,6 +40,44 @@ layout: home
             Zirconium
         </h3>
     </div>
+    <div class="metal" style="visibility:hidden">
+    </div>
+    <div class="metal" type="refractory">
+        <h1>
+            Mo
+        </h1>
+        <h3>
+            Molybdan <!-- German spelling -->
+        </h3>
+    </div>
+    <div class="metal" style="visibility:hidden">
+    </div>
+    <div class="metal" type="noble">
+        <h1>
+            Ru
+        </h1>
+        <h3>
+            Ruthenium
+        </h3>
+    </div>
+    <div class="metal" style="visibility:hidden">
+    </div>
+    <div class="metal" type="metalloid">
+        <h1>
+            Sb
+        </h1>
+        <h3>
+            Antimony
+        </h3>
+    </div>
+    <div class="metal" type="lanthanide">
+        <h1>
+            La
+        </h1>
+        <h3>
+            Lanthan <!-- German spelling -->
+        </h3>
+    </div>
     <div class="metal" type="refractory">
         <h1>
             Hf
@@ -48,10 +88,10 @@ layout: home
     </div>
     <div class="metal" type="refractory">
         <h1>
-            V
+            Ta
         </h1>
         <h3>
-            Vanadium
+            Tantal <!-- German spelling -->
         </h3>
     </div>
     <div class="metal" type="refractory">
@@ -64,42 +104,36 @@ layout: home
     </div>
     <div class="metal" type="refractory">
         <h1>
-            Mo
+            Re
         </h1>
         <h3>
-            Molybdan <!-- German spelling -->
+            Rhenium
         </h3>
     </div>
-    <div class="metal" type="refractory">
+    <div class="metal" style="visibility:hidden">
+    </div>
+    <div class="metal" type="noble">
         <h1>
-            Ti
+            Ir
         </h1>
         <h3>
-            Titan <!-- German spelling -->
+            Iridium
         </h3>
     </div>
-    <div class="metal" type="refractory">
+    <div class="metal" type="noble">
         <h1>
-            Ta
+            Pt
         </h1>
         <h3>
-            Tantal <!-- German spelling -->
-        </h3>
-    </div>
-    <div class="metal" type="lanthanide">
-        <h1>
-            Dy
-        </h1>
-        <h3>
-            Dysprosium
+            Platin <!-- German spelling -->
         </h3>
     </div>
     <div class="metal" type="lanthanide">
         <h1>
-            Gd
+            Pr
         </h1>
         <h3>
-            Gadolinium
+            Praseodym <!-- German spelling -->
         </h3>
     </div>
     <div class="metal" type="lanthanide">
@@ -112,42 +146,18 @@ layout: home
     </div>
     <div class="metal" type="lanthanide">
         <h1>
-            La
+            Gd
         </h1>
         <h3>
-            Lanthan <!-- German spelling -->
+            Gadolinium
         </h3>
     </div>
     <div class="metal" type="lanthanide">
         <h1>
-            Pr
+            Dy
         </h1>
         <h3>
-            Praseodym <!-- German spelling -->
-        </h3>
-    </div>
-    <div class="metal" type="noble">
-        <h1>
-            Pt
-        </h1>
-        <h3>
-            Platin <!-- German spelling -->
-        </h3>
-    </div>
-    <div class="metal" type="noble">
-        <h1>
-            Ru
-        </h1>
-        <h3>
-            Ruthenium
-        </h3>
-    </div>
-    <div class="metal" type="noble">
-        <h1>
-            Ir
-        </h1>
-        <h3>
-            Iridium
+            Dysprosium
         </h3>
     </div>
 </div>

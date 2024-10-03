@@ -8,13 +8,11 @@ div.metals {
     padding: 10px;
 
     div.metal { 
-        background-color: rgba(255, 255, 255, 0.8);
         text-align: center;
         // padding: 20px 0;
         // font-size: 30px;
         width: 100px;
         padding-top: 100px;
-        background-color: rgba(37, 31, 66, 0.1);
         box-shadow: rgba(37, 31, 66, 0.8) 0px 0px 0px 2px inset;
         color: rgb(37, 31, 66);
         border-radius: 3%;
@@ -34,4 +32,25 @@ div.metals {
             transform: translate(-50%, -50%);
         }
     }
+
+    div.metal[type="lanthanide"] {
+        background-color: lightblue;
+    }
+
+    div.metal[type="noble"] {
+        background-color: lightyellow;
+    }
+
+    div.metal[type="transition"] {
+        background-color: lightseagreen;
+    }
+    div.metal[type="metalloid"] {
+        background-color: lightcoral;
+    }
+
+    div.metal[type="refractory"] {
+        background-color: rgba(37, 31, 66, 0.1);
+    }
+    
+
 }
