@@ -1,13 +1,13 @@
 title: SEKOM
 author:
-    name: gszep
-    email: contact@gszep.com
+    name: Grisha Szep
+    email: grisha.szep@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
-    SEKOM is a private company registered in Austria. It was founded in 1990 as an international trade and project development company.
-    Main activity is trade with hard and refractory metals, oxides, concentrates and scrap, in particular Tungsten, Molybdenum, Rhenium,
-    Tantalum, Titanium, as well precious and platinum group and rare earth metals/oxides. Its also provides project development,
-    engineering and procurement services to developers of power plants and other energy infrastructure.
+    SEKOM was founded in 1990 as an international trade and project development company and is registered in Austria.
+    Its main activities include trade with refractory and transition metals, oxides, concentrates and scrap, as well
+    precious, platinum group and rare earth metals and oxides. Project development, engineering and procurement services
+    are also provided to developers of power plants and other energy infrastructure.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sekom.com"
 github_username: sekom-gmbh
