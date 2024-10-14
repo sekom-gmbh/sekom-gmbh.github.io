@@ -4,7 +4,9 @@ title: General Terms and Conditions
 permalink: en/terms/
 ---
 
-## TERMS OF SALE
+#### [TERMS OF SALE](#TERMSOFSALE) | [TERMS OF PURCHASE](#TERMSOFPURCHASE)
+
+## TERMS OF SALE {#TERMSOFSALE}
 
 1. **General Terms**
    The purchaser is aware that the object of our Company is trading with and importing/exporting of goods of all kind. Furthermore he is aware that we buy goods only for the purpose of reselling them. Furthermore, the Purchaser is aware that we resell the goods packed and wrapped as we receive them from our suppliers.
@@ -78,9 +80,9 @@ permalink: en/terms/
 
     - 11.3 Should one or more clauses of these General Terms be totally or partially invalid the other clauses shall remain in force.
 
-    - 11.4 These English terms are only a translation of the German <strong><a href="/de/terms/#VERKAUFSBEDINGUNGEN">VERKAUFSBEDINGUNGEN</a></strong> and they are only for convenience purposes; in case of dispute the German text shall prevail.
+    - 11.4 These English terms are only a translation of the German **[VERKAUFSBEDINGUNGEN](./de-terms.md#VERKAUFSBEDINGUNGEN)** and they are only for convenience purposes; in case of dispute the German text shall prevail.
 
-## TERMS OF PURCHASE
+## TERMS OF PURCHASE {#TERMSOFPURCHASE}
 
 1. **General Terms**
    The Seller is aware that the object of our Company is trading with and importing/exporting of goods of all kind and that we buy the goods supplied by him only for the purpose of reselling. Furthermore, the Seller is aware that we resell the goods packed and wrapped as we receive them from him.
@@ -141,4 +143,4 @@ permalink: en/terms/
 
     - 11.1 Should one or more Clauses of the General Terms be partly of totally invalid the other Clauses shall remain in force.
 
-    - 11.2 These English Terms are only a translation of the German <strong><a href="/de/terms/#EINKAUFSBEDINGUNGEN">EINKAUFSBEDINGUNGEN</a></strong> and they are only for convenience purposes; in case of dispute the German text shall prevail.
+    - 11.2 These English Terms are only a translation of the German **[EINKAUFSBEDINGUNGEN](./de-terms.md#EINKAUFSBEDINGUNGEN)** and they are only for convenience purposes; in case of dispute the German text shall prevail.
