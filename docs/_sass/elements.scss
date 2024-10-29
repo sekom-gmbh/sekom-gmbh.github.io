@@ -41,23 +41,18 @@ div.metals {
     div.metal[type="lanthanide"] {
         background-color: lightblue;
     }
-
     div.metal[type="noble"] {
         background-color: lightyellow;
     }
-
     div.metal[type="transition"] {
         background-color: lightseagreen;
     }
     div.metal[type="metalloid"] {
         background-color: lightcoral;
     }
-
     div.metal[type="refractory"] {
-        background-color: rgba(37, 31, 66, 0.1);
+        background-color: rgba(37, 31, 66, 0.2);
     }
-    
-
 }
 
 @media only screen and (max-width: 600px) {

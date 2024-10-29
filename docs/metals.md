@@ -4,6 +4,8 @@ title: Metals
 permalink: /metals/
 ---
 
+We trade in transition, refractory and noble metals as well as Lanthanides, oxides, concentrates and scrap. **Click on an element below** to see detailed specifications, compounds and alloys.
+
 <div class="metals">
     <div class="metal" style="visibility:hidden">
     </div>
