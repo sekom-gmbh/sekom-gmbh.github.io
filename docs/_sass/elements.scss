@@ -1,0 +1,78 @@
+
+div.metals {
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(7, 13.2%);
+    gap: 10px;
+    padding: 10px;
+
+    div.metal { 
+        text-align: center;
+        width: 100%;
+        padding-top: 100%;
+        box-shadow: rgba(37, 31, 66, 0.8) 0px 0px 0px 2px inset;
+        color: rgb(37, 31, 66);
+        border-radius: 3%;
+        position: relative;
+        h1 {
+            position: absolute;
+            font-size: min(4cqw, 24pt);
+            top: 45%;
+            left: 50%;
+            font-weight: bold;
+            transform: translate(-50%, -50%);
+        }
+        h3 {
+            position: absolute;
+            font-size: min(2cqw, 11pt);
+            top: 70%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        h4 {
+            position: absolute;
+            font-size: min(2cqw, 12pt);
+            top: 7%;
+            left: 12%;
+        }
+    }
+
+    div.metal[type="lanthanide"] {
+        background-color: lightblue;
+    }
+    div.metal[type="noble"] {
+        background-color: lightyellow;
+    }
+    div.metal[type="transition"] {
+        background-color: lightseagreen;
+    }
+    div.metal[type="metalloid"] {
+        background-color: lightcoral;
+    }
+    div.metal[type="refractory"] {
+        background-color: rgba(37, 31, 66, 0.2);
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    div.metals {
+        grid-template-columns: repeat(4, 20.5%);
+        grid-template-rows: repeat(7, 13.2%);
+        grid-auto-flow: column;
+
+        div.metal {
+            h1 {
+                font-size: min(7cqw, 28pt);
+            }
+
+            h3 {
+                font-size:  min(3cqw, 13pt);
+            }
+
+            h4 {
+                font-size:  min(3cqw, 13pt);
+            }
+        }
+    }
+}
