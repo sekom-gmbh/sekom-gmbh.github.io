@@ -132,8 +132,13 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $border-color-01;
+  position:fixed;
+  bottom:0;
+  width:100%;
+  a {color: lightblue;text-decoration: none;}
+  background-color: rgba(37, 31, 66, 1);
   padding: $spacing-unit 0;
+  color: $background-color;
 }
 
 .footer-heading {
@@ -154,11 +159,10 @@
 .footer-col-wrapper,
 .social-links {
   @include relative-font-size(0.9375);
-  color: $brand-color;
 }
 
 .footer-col {
-  margin-bottom: $spacing-unit * .5;
+  // margin-bottom: $spacing-unit * .5;
 }
 
 .footer-col-1,
@@ -211,8 +215,15 @@
  * Page content
  */
 .page-content {
-  padding: 0 0;
+  padding: 0 0 200px 0;
   flex: 1 0 auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .page-content {
+    padding: 0 0 300px 0;
+    flex: 1 0 auto;
+  }
 }
 
 .page-heading {
