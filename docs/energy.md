@@ -1,17 +1,20 @@
 ---
 layout: home
-title: Energy
+title: Energy & projects
 permalink: /energy/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Connecting expertise with opportunity.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Alongside our metals business, SEKOM provides project development, engineering and procurement services for power plants and other energy infrastructure.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+We work on complex projects and interdisciplinary technologies, with a particular focus on renewable and emission-free power production.
 
-[jekyll-organization]: https://github.com/jekyll
+### From feasibility to procurement
+
+- Project development and structuring
+- Technical and financial feasibility studies
+- Equipment supply and procurement
+- Engineering and consulting services
+
+Have a project in mind? [Talk to our team](mailto:office@sekom.com?subject=Energy%20and%20project%20enquiry).

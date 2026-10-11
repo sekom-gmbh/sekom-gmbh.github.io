@@ -1,6 +1,7 @@
 ---
 layout: home
-title: General Terms and Conditions
+title: Allgemeine Geschäftsbedingungen
+lang: de
 permalink: de/terms/
 ---
 

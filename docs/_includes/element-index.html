@@ -1,0 +1,36 @@
+<div class="element-notebook" id="element-index">
+  <div class="notebook-heading"><h2>The element index</h2><span>FIG. 01</span></div>
+  <p class="index-instruction">A selection of the metals we work with. Pick one to explore.</p>
+  <div class="element-grid" aria-label="Explore our metals">
+    {% for element in site.data.elements %}
+    <a class="element-tile family-{{ element.family }}{% if element.symbol == 'W' %} is-selected{% endif %}" href="#element-{{ element.symbol }}" data-element="{{ element.symbol }}" style="--column: {{ element.column }}; --row: {{ element.row }}" aria-label="{{ element.name }}, atomic number {{ element.number }}"{% if element.symbol == 'W' %} aria-current="true"{% endif %}>
+      <span class="atomic-number">{{ element.number }}</span>
+      <span class="element-symbol">{{ element.symbol }}</span>
+      <span class="element-name">{{ element.name }}</span>
+      <span class="tile-arrow" aria-hidden="true">↗</span>
+    </a>
+    {% endfor %}
+  </div>
+  <ul class="element-legend" aria-label="Material categories">
+    <li><i class="family-refractory"></i>Refractory</li>
+    <li><i class="family-transition"></i>Transition</li>
+    <li><i class="family-precious"></i>Precious</li>
+    <li><i class="family-rare-earth"></i>Rare earth</li>
+    <li><i class="family-metalloid"></i>Metalloid</li>
+  </ul>
+  <div class="element-details">
+    {% for element in site.data.elements %}
+    <article class="element-detail" id="element-{{ element.symbol }}" aria-labelledby="title-{{ element.symbol }}">
+      <div class="detail-symbol family-{{ element.family }}" aria-hidden="true"><small>{{ element.number }}</small>{{ element.symbol }}</div>
+      <div class="detail-copy">
+        <p class="eyebrow">{{ element.category }} / Material notes</p>
+        <h3 id="title-{{ element.symbol }}">{{ element.name }}</h3>
+        <p>{{ element.note }}</p>
+        <a class="text-link" href="mailto:office@sekom.com?subject={{ element.name | prepend: 'Enquiry: ' | uri_escape }}">Enquire about {{ element.name | downcase }} <span aria-hidden="true">↗</span></a>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  <noscript><p class="no-script">For information on any of these elements, <a href="mailto:office@sekom.com">contact our team</a>.</p></noscript>
+  <p class="notebook-caption">Selected materials, arranged for exploration — not a complete periodic table.</p>
+</div>

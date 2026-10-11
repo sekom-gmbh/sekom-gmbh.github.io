@@ -1,0 +1,144 @@
+- symbol: Ti
+  name: Titanium
+  number: 22
+  family: refractory
+  category: Refractory metals
+  column: 2
+  row: 1
+  note: "One of our specialist metals. Talk to us about your material requirements, specifications and sourcing needs."
+- symbol: V
+  name: Vanadium
+  number: 23
+  family: refractory
+  category: Refractory metals
+  column: 3
+  row: 1
+  note: "Explore vanadium with our team. Let us know the form, specification and quantity your project requires."
+- symbol: Co
+  name: Cobalt
+  number: 27
+  family: transition
+  category: Transition metals
+  column: 6
+  row: 1
+  note: "Part of our transition-metal portfolio. Contact us to discuss your specification and sourcing requirements."
+- symbol: Zr
+  name: Zirconium
+  number: 40
+  family: refractory
+  category: Refractory metals
+  column: 2
+  row: 2
+  note: "Discuss zirconium sourcing with our team, from your required material form to the specifications that matter."
+- symbol: Mo
+  name: Molybdenum
+  number: 42
+  family: refractory
+  category: Refractory metals
+  column: 4
+  row: 2
+  note: "A focus of our specialist metals business. Contact us about sourcing, scrap conversion and recycling requirements."
+- symbol: Ru
+  name: Ruthenium
+  number: 44
+  family: precious
+  category: Precious metals
+  column: 5
+  row: 2
+  note: "Part of our platinum-group metals portfolio. Share your requirements with us to discuss sourcing."
+- symbol: Sb
+  name: Antimony
+  number: 51
+  family: metalloid
+  category: Metalloids
+  column: 7
+  row: 2
+  note: "Explore antimony sourcing with SEKOM. Our team can discuss material forms, specifications and your project needs."
+- symbol: La
+  name: Lanthanum
+  number: 57
+  family: rare-earth
+  category: Rare earth metals
+  column: 1
+  row: 3
+  note: "Part of our rare earth portfolio. Get in touch about your metal or oxide requirements."
+- symbol: Hf
+  name: Hafnium
+  number: 72
+  family: refractory
+  category: Refractory metals
+  column: 2
+  row: 3
+  note: "Specialist materials start with a precise specification. Talk to us about your hafnium requirements."
+- symbol: Ta
+  name: Tantalum
+  number: 73
+  family: refractory
+  category: Refractory metals
+  column: 3
+  row: 3
+  note: "A focus of our specialist metals business. Let’s discuss your sourcing, conversion or recycling needs."
+- symbol: W
+  name: Tungsten
+  number: 74
+  family: refractory
+  category: Refractory metals
+  column: 4
+  row: 3
+  note: "Also known as wolfram. A core part of our metals business, from sourcing materials to scrap conversion and recycling."
+- symbol: Re
+  name: Rhenium
+  number: 75
+  family: refractory
+  category: Refractory metals
+  column: 5
+  row: 3
+  note: "One of our specialist metals. Share your specifications to discuss sourcing and material requirements with our team."
+- symbol: Ir
+  name: Iridium
+  number: 77
+  family: precious
+  category: Precious metals
+  column: 6
+  row: 3
+  note: "Part of our platinum-group metals portfolio. Contact our team about your required form and specification."
+- symbol: Pt
+  name: Platinum
+  number: 78
+  family: precious
+  category: Precious metals
+  column: 7
+  row: 3
+  note: "Explore our precious metals business. Talk to us about platinum sourcing and your material requirements."
+- symbol: Pr
+  name: Praseodymium
+  number: 59
+  family: rare-earth
+  category: Rare earth metals
+  column: 1
+  row: 4
+  note: "Part of our rare earth portfolio. Contact us to discuss metal and oxide specifications for your project."
+- symbol: Nd
+  name: Neodymium
+  number: 60
+  family: rare-earth
+  category: Rare earth metals
+  column: 2
+  row: 4
+  note: "Explore rare earth sourcing with our team. Share your neodymium metal or oxide requirements."
+- symbol: Gd
+  name: Gadolinium
+  number: 64
+  family: rare-earth
+  category: Rare earth metals
+  column: 5
+  row: 4
+  note: "Part of our rare earth portfolio. Talk to us about the material form and specification you need."
+- symbol: Dy
+  name: Dysprosium
+  number: 66
+  family: rare-earth
+  category: Rare earth metals
+  column: 6
+  row: 4
+  note: "Discuss dysprosium metal and oxide sourcing with our team, tailored to your material requirements."
